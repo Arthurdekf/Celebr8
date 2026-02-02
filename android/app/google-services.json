@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815155476174",
+    "project_id": "celebr8-ypdb84",
+    "storage_bucket": "celebr8-ypdb84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815155476174:android:5aa4a15e90c7020097429f",
+        "android_client_info": {
+          "package_name": "com.mycompany.celebr8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDgTRLLHxggiCPKU5n9EtKFqGoJZJ3QLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
