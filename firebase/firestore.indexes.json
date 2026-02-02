@@ -1,0 +1,50 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "eventos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "cidade",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data_inicio",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "categorias",
+          "arrayConfig": "CONTAINS"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "eventos_confirmacoes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "user",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data_evento",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "eventos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "divulgador",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data_inicio",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}
