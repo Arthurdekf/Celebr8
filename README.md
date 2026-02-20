@@ -42,7 +42,7 @@ Integração com API externa de geolocalização do evento
 
 🧩 Arquitetura modular organizada por páginas e estados globais
 
-Imagens
+## Imagens
 
 ## Tela de Login
 <img width="300" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (16)" src="https://github.com/user-attachments/assets/02ccb86e-3aa4-4a85-a312-8d93d9ba1e40" />
@@ -57,10 +57,10 @@ Imagens
 <img width="300" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/44c5238c-feef-4bb1-884a-c170de8b3b14" />
 
 ## Filtro por data
-Calendário
+## Calendário
 <img width="300"  alt="app flutterflow io_debug_Ov8wXNYz2Fvs1X62rRe8(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/ee79c4b9-1abf-444d-a4ea-143201789ea6" />
 
-Filtro aplicado
+## Filtro aplicado
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (1)" src="https://github.com/user-attachments/assets/812a0e37-0dba-4a06-b5d7-946c5e4d585d" />
 
 ## Visualização de lista
@@ -78,7 +78,7 @@ Filtro aplicado
 ## Perfil Logado
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (6)" src="https://github.com/user-attachments/assets/97000fc7-916c-440e-93df-a5e9fbec82f1" />
 
-Perfil Logado - Eventos organizados
+## Perfil Logado - Eventos organizados
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (7)" src="https://github.com/user-attachments/assets/7ee18092-4e50-4d3f-becc-88d686c87183" />
 
 ## Avaliar evento
@@ -91,7 +91,7 @@ Perfil Logado - Eventos organizados
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (10)" src="https://github.com/user-attachments/assets/938ea8e5-d50d-4b24-ba18-939b0bf78490" />
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (12)" src="https://github.com/user-attachments/assets/94b91572-1617-4cec-b998-0bdc1e01e74f" />
 
-Informações do evento local
+## Informações do evento local
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (13)" src="https://github.com/user-attachments/assets/f2f50f7e-5cbe-44bd-a083-92bca75a2f44" />
 
 ## Cadastro de evento
