@@ -57,10 +57,7 @@ Integração com API externa de geolocalização do evento
 <img width="300" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/44c5238c-feef-4bb1-884a-c170de8b3b14" />
 
 ## Filtro por data
-## Calendário
 <img width="300"  alt="app flutterflow io_debug_Ov8wXNYz2Fvs1X62rRe8(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/ee79c4b9-1abf-444d-a4ea-143201789ea6" />
-
-## Filtro aplicado
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (1)" src="https://github.com/user-attachments/assets/812a0e37-0dba-4a06-b5d7-946c5e4d585d" />
 
 ## Visualização de lista
@@ -71,14 +68,10 @@ Integração com API externa de geolocalização do evento
 
 ## Tela de busca (Usuário)
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (4)" src="https://github.com/user-attachments/assets/494f6b70-2eab-4091-bfeb-51adfb4e3bf1" />
-
-## Tela de busca (Evento)
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (5)" src="https://github.com/user-attachments/assets/565488d4-1051-4ccd-b6a4-8ab280b0ce93" />
 
 ## Perfil Logado
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (6)" src="https://github.com/user-attachments/assets/97000fc7-916c-440e-93df-a5e9fbec82f1" />
-
-## Perfil Logado - Eventos organizados
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (7)" src="https://github.com/user-attachments/assets/7ee18092-4e50-4d3f-becc-88d686c87183" />
 
 ## Avaliar evento
