@@ -43,7 +43,7 @@ Integração com API externa de geolocalização do evento
 🧩 Arquitetura modular organizada por páginas e estados globais
 
 Imagens
-<p align="center">
+
 ## Tela de Login
 <img width="300" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (16)" src="https://github.com/user-attachments/assets/02ccb86e-3aa4-4a85-a312-8d93d9ba1e40" />
 
@@ -97,7 +97,7 @@ Informações do evento local
 ## Cadastro de evento
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (14)" src="https://github.com/user-attachments/assets/787eb0bb-8f82-47ce-9fe3-805b938d4d46" />
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (15)" src="https://github.com/user-attachments/assets/8668a9e7-7f67-4d0a-ba55-50a8b675fc21" />
-</p>
+
 
 
 
