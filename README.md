@@ -1,32 +1,106 @@
-# Celebr8
+# 🎉 Celebr8
 
 APLICAÇÃO MOBILE PARA BUSCA E DIVULGAÇÃO DE EVENTOS E ENTRETENIMENTO
 
-## Sobre o aplicativo
+## 📌 Sobre o projeto
 
-As plataformas digitais desempenham um papel cada vez mais relevante no cotidiano, especialmente no setor de eventos, onde a descentralização de informações e a dificuldade de gerenciamento representam problemas significativos para usuários e divulgadores. Este trabalho apresenta o desenvolvimento do CELEBR8, um aplicativo mobile inovador projetado para centralizar informações sobre eventos e oferecer uma solução prática e eficiente para diferentes públicos. O principal objetivo do CELEBR8 é criar uma plataforma que simplifica a interação entre promotores de eventos e entusiastas, promovendo um gerenciamento mais eficaz de eventos e uma experiência enriquecedora para o público. Dessa forma, o sistema pretende transformar o modo como eventos são descobertos, promovidos e consumidos, contribuindo para um mercado de entretenimento mais dinâmico e interconectado. Durante o desenvolvimento do projeto, realizamos uma série de pesquisas para compreender a demanda e validar os requisitos do sistema, incluindo levantamentos sobre dificuldades enfrentadas por usuários e promotores. O trabalho também abrangeu a elaboração de diagramas técnicos, como casos de uso e diagramas de classes, para estruturar a arquitetura do software. Além disso, desenvolvemos um cronograma técnico detalhado para orientar o processo de implementação. A aplicação foi projetada com base em práticas ágeis, integrando protótipos de telas, como as de login, filtros avançados, cadastro e avaliação de eventos, além de recursos voltados para o gerenciamento de eventos por parte dos divulgadores. A modelagem do banco de dados no Firebase, que utiliza uma abordagem não relacional, também foi concluída, garantindo eficiência, escalabilidade e segurança no armazenamento das informações. O CELEBR8 conta ainda com ferramentas como formulários para criação de eventos, filtros personalizados para pesquisa, e funcionalidades como confirmar presença, avaliar e compartilhar eventos, otimizando a experiência dos usuários. Para os divulgadores, oferecemos relatórios analíticos pós-evento, controles detalhados de engajamento e recursos para o agendamento automático de eventos. Com os avanços obtidos até agora, o CELEBR8 se posiciona como uma solução promissora, focada em democratizar o acesso à informação e transformar a interação com eventos, oferecendo uma plataforma acessível, prática e alinhada às necessidades do mercado.
+O Celebr8 é uma plataforma mobile focada na descoberta e divulgação de eventos.
+O aplicativo conecta usuários a experiências locais por meio de uma interface intuitiva, permitindo explorar, filtrar e interagir com eventos de forma dinâmica.
+
+A proposta central é simplificar o acesso a eventos segmentados por interesse, oferecendo uma experiência personalizada e escalável baseada em dados em tempo real.
+
+## 🚀 Tecnologias Utilizadas
+
+Flutter – Framework principal para desenvolvimento mobile multiplataforma
+
+Firebase:
+Cloud Firestore – Firebase Authentication – Firebase Storage
+
+## 🔗 Integrações e APIs
+
+API de autenticação com email/senha
+
+Upload e recuperação de imagens via Storage
+
+Queries condicionais e filtragem temporal
+
+Integração com API externa de geolocalização do evento
+
+## ⭐ Destaques Técnicos
+
+🔎 Filtragem dinâmica de eventos por período (semana atual, datas futuras, etc.)
+
+📅 Manipulação avançada de DateTime para controle de exibição temporal
+
+🔐 Controle de acesso baseado em autenticação
+
+🗂 Estrutura de dados escalável com modelagem otimizada no Firestore
+
+🖼 Upload e renderização segura de imagens com controle de permissão
+
+⚡ Atualizações em tempo real via snapshot listeners
+
+🧩 Arquitetura modular organizada por páginas e estados globais
 
 ## Imagens
 
-<img width="599" height="646" alt="image" src="https://github.com/user-attachments/assets/cfb23548-cbf9-472f-b34f-a5a0204a90cf" />
+## Tela de Login
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (16)" src="https://github.com/user-attachments/assets/02ccb86e-3aa4-4a85-a312-8d93d9ba1e40" />
 
-<img width="595" height="712" alt="image" src="https://github.com/user-attachments/assets/771688fe-587c-4be5-a056-d2144b6d7546" />
+## Registro de usuário
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (18)" src="https://github.com/user-attachments/assets/e3885331-e110-4720-bce3-721011b1ed4a" />
 
-<img width="575" height="631" alt="image" src="https://github.com/user-attachments/assets/a4fca2d4-e8b6-4771-bd17-54f854dc690a" />
+## Formulário de registro de usuário
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (19)" src="https://github.com/user-attachments/assets/1e142c7d-b3c3-48e9-9fee-124c819d96ae" />
 
-<img width="265" height="609" alt="image" src="https://github.com/user-attachments/assets/bbb12d03-eb04-4c8d-9f6a-3496ae5f9126" />
+## Tela Inicial
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/44c5238c-feef-4bb1-884a-c170de8b3b14" />
 
-<img width="292" height="580" alt="image" src="https://github.com/user-attachments/assets/fbc59342-8c09-410d-aad4-0d1c50b15315" />
+## Filtro por data
+Calendário
+<img width="1170" height="2532" alt="app flutterflow io_debug_Ov8wXNYz2Fvs1X62rRe8(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/ee79c4b9-1abf-444d-a4ea-143201789ea6" />
 
-<img width="564" height="624" alt="image" src="https://github.com/user-attachments/assets/80a07cf7-dfcc-4dbd-a11e-770dd02d97ed" />
+Filtro aplicado
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (1)" src="https://github.com/user-attachments/assets/812a0e37-0dba-4a06-b5d7-946c5e4d585d" />
 
-<img width="575" height="635" alt="image" src="https://github.com/user-attachments/assets/8c7c7fad-551f-4831-879f-c734ddf1c9c1" />
+## Visualização de lista
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (2)" src="https://github.com/user-attachments/assets/dce5c9ae-acab-4735-866e-07709542ecc1" />
 
-<img width="335" height="727" alt="image" src="https://github.com/user-attachments/assets/a52eb801-d42a-4d7f-b34b-81d23b74fa3a" />
+## Opções de filtragem
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (3)" src="https://github.com/user-attachments/assets/c625443f-f004-4bde-ae09-3a41f21b45ce" />
 
-<img width="562" height="613" alt="image" src="https://github.com/user-attachments/assets/9e1224e8-faa4-467c-a239-9e2f2de8637d" />
+## Tela de busca (Usuário)
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (4)" src="https://github.com/user-attachments/assets/494f6b70-2eab-4091-bfeb-51adfb4e3bf1" />
 
-<img width="292" height="655" alt="image" src="https://github.com/user-attachments/assets/77e78ccf-dfed-4f3d-9361-561db4a64d7b" />
+## Tela de busca (Evento)
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (5)" src="https://github.com/user-attachments/assets/565488d4-1051-4ccd-b6a4-8ab280b0ce93" />
+
+## Perfil Logado
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (6)" src="https://github.com/user-attachments/assets/97000fc7-916c-440e-93df-a5e9fbec82f1" />
+
+Perfil Logado - Eventos organizados
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (7)" src="https://github.com/user-attachments/assets/7ee18092-4e50-4d3f-becc-88d686c87183" />
+
+## Avaliar evento
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (8)" src="https://github.com/user-attachments/assets/2ad390f1-ae91-4e3c-9897-1599e76cd1fc" />
+
+## Configurações da conta
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (9)" src="https://github.com/user-attachments/assets/298fe090-1d84-486e-b6d3-4ef591797143" />
+
+## Informações do evento
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (10)" src="https://github.com/user-attachments/assets/938ea8e5-d50d-4b24-ba18-939b0bf78490" />
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (12)" src="https://github.com/user-attachments/assets/94b91572-1617-4cec-b998-0bdc1e01e74f" />
+
+Informações do evento local
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (13)" src="https://github.com/user-attachments/assets/f2f50f7e-5cbe-44bd-a083-92bca75a2f44" />
+
+## Cadastro de evento
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (14)" src="https://github.com/user-attachments/assets/787eb0bb-8f82-47ce-9fe3-805b938d4d46" />
+<img width="1170" height="2532" alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (15)" src="https://github.com/user-attachments/assets/8668a9e7-7f67-4d0a-ba55-50a8b675fc21" />
+
+
+
+
 
 
 
