@@ -66,7 +66,7 @@ Integração com API externa de geolocalização do evento
 ## Opções de filtragem
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (3)" src="https://github.com/user-attachments/assets/c625443f-f004-4bde-ae09-3a41f21b45ce" />
 
-## Tela de busca (Usuário)
+## Tela de busca
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (4)" src="https://github.com/user-attachments/assets/494f6b70-2eab-4091-bfeb-51adfb4e3bf1" />
 <img width="300"  alt="app flutterflow io_debug_9wf6SKQ2PcTUUtTIMZ4p(iPhone 12 Pro) (5)" src="https://github.com/user-attachments/assets/565488d4-1051-4ccd-b6a4-8ab280b0ce93" />
 
